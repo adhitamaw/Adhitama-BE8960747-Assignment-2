@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algorithm Assignment - Code Monkey
 
 [![Trailer Code Monkey](assets/trailer-code-monkey.png)](https://www.youtube.com/watch?v=RqSzdmSUHVo)
@@ -124,3 +125,6 @@ Overall Course
 ## Output yang harus disubmit ke LMS
 
 - Link Pull Request (di repository ini, sesuai format)
+=======
+# Adhitama-BE8960747-Assignment-2
+>>>>>>> c4d2c1113d34e15745c09857c943e76dce6e5b1a
